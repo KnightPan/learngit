@@ -1,0 +1,4 @@
+add test2 file
+
+$ git config --global user.name "panjf"
+$ git config --global user.email "panjf@haimylife.com"
